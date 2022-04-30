@@ -5,10 +5,10 @@ List of CMS Security Scanners
 | --------- | --------------------------------- |
 | WordPress | https://github.com/dionach/CMSmap |
 | Joomla | https://github.com/dionach/CMSmap |
-Drupal - https://github.com/dionach/CMSmap
-Moodle - https://github.com/dionach/CMSmap
-Magento - https://github.com/soufianetahiri/MagentoScanner
-TYPO3 - https://github.com/whoot/Typo3Scan
+| Drupal | https://github.com/dionach/CMSmap |
+| Moodle | https://github.com/dionach/CMSmap |
+| Magento | https://github.com/soufianetahiri/MagentoScanner |
+| TYPO3 | https://github.com/whoot/Typo3Scan |
 	      https://github.com/Webber89/TY3Scan
 Lokomedia - https://github.com/anouarbensaad/vulnx
 Opencart - https://github.com/anouarbensaad/vulnx
