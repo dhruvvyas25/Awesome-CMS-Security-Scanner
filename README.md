@@ -14,13 +14,13 @@ List of CMS Security Scanners
 | Opencart | https://github.com/anouarbensaad/vulnx |
 | vBulletin | https://github.com/OWASP/vbscan |
 | Prestashop | https://github.com/zapalm/prestashop-security-vulnerability-checker |
-| Concrete5 - https://github.com/0x646e78/c5scan |
+| Concrete5 | https://github.com/0x646e78/c5scan |
 | SilverStripe | https://github.com/SamJoan/droopescan |
 | Contao | https://github.com/1up-lab/ContaoSecurityCheckerBundle |
-CraftCMS -	https://github.com/putyourlightson/craft-sherlock
-DotNetNuke - https://github.com/DNNCommunity/DNN.SecurityAnalyzer
-Kentico -	https://github.com/Kentico/KInspector
-LifeRay	- https://github.com/random-robbie/liferay-pwn
+| CraftCMS | https://github.com/putyourlightson/craft-sherlock |
+| DotNetNuke | https://github.com/DNNCommunity/DNN.SecurityAnalyzer |
+| Kentico |	https://github.com/Kentico/KInspector |
+| LifeRay	| https://github.com/random-robbie/liferay-pwn |
 Sharepoint - https://github.com/sensepost/SPartan
 October	- https://github.com/vannut/oc-security-plugin
 Plone	- https://github.com/unweb/plown
