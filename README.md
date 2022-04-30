@@ -21,17 +21,17 @@ List of CMS Security Scanners
 | DotNetNuke | https://github.com/DNNCommunity/DNN.SecurityAnalyzer |
 | Kentico |	https://github.com/Kentico/KInspector |
 | LifeRay	| https://github.com/random-robbie/liferay-pwn |
-Sharepoint - https://github.com/sensepost/SPartan
-October	- https://github.com/vannut/oc-security-plugin
-Plone	- https://github.com/unweb/plown
-SPIP	- https://github.com/PaulSec/SPIPScan
-SiteCore -	https://github.com/bcoles/sitecore_scan
-Shopware -	https://github.com/nikolayk812/shopware-orders-scanner
-Textpattern	- https://github.com/stefan2200/Helios
-Subrion -	https://github.com/stefan2200/Helios
-CMS Made Simple -	https://github.com/stefan2200/Helios
-MODX Revolution -	https://github.com/stefan2200/Helios
-Mambo -	https://packetstormsecurity.com/files/64722/cms_few.py.txt.html
-PHP-Nuke -	https://packetstormsecurity.com/files/64722/cms_few.py.txt.html
-XOOPS	 - https://packetstormsecurity.com/files/64722/cms_few.py.txt.html
-Adobe Experience Manager V - https://github.com/Raz0r/aemscan
+| Sharepoint | https://github.com/sensepost/SPartan |
+| October	| https://github.com/vannut/oc-security-plugin |
+| Plone	| https://github.com/unweb/plown |
+| SPIP | https://github.com/PaulSec/SPIPScan |
+| SiteCore |	https://github.com/bcoles/sitecore_scan |
+| Shopware |	https://github.com/nikolayk812/shopware-orders-scanner |
+| Textpattern	| https://github.com/stefan2200/Helios |
+| Subrion |	https://github.com/stefan2200/Helios |
+| CMS Made Simple |	https://github.com/stefan2200/Helios |
+| MODX Revolution |	https://github.com/stefan2200/Helios |
+| Mambo |	https://packetstormsecurity.com/files/64722/cms_few.py.txt.html |
+| PHP-Nuke |	https://packetstormsecurity.com/files/64722/cms_few.py.txt.html |
+| XOOPS	 | https://packetstormsecurity.com/files/64722/cms_few.py.txt.html |
+| Adobe Experience Manager V | https://github.com/Raz0r/aemscan |
