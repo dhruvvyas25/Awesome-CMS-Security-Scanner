@@ -1,8 +1,9 @@
 # Awesome-CMS-Security-Scanner
 List of CMS Security Scanners
 
-| WordPress | https://github.com/dionach/CMSmap |
+| CMS | Tools |
 | --------- | --------------------------------- |
+| WordPress | https://github.com/dionach/CMSmap |
 | Joomla | https://github.com/dionach/CMSmap |
 Drupal - https://github.com/dionach/CMSmap
 Moodle - https://github.com/dionach/CMSmap
