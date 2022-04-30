@@ -1,4 +1,4 @@
-# Awesome-CMS-Security-Scanner
+# Awesome-CMS-Security-Scanners
 List of CMS Security Scanners
 
 | CMS | Tools |
@@ -9,8 +9,8 @@ List of CMS Security Scanners
 | Moodle | https://github.com/dionach/CMSmap |
 | Magento | https://github.com/soufianetahiri/MagentoScanner |
 | TYPO3 | https://github.com/whoot/Typo3Scan |
-	      https://github.com/Webber89/TY3Scan
-Lokomedia - https://github.com/anouarbensaad/vulnx
+| | https://github.com/Webber89/TY3Scan |
+| Lokomedia | https://github.com/anouarbensaad/vulnx |
 Opencart - https://github.com/anouarbensaad/vulnx
 vBulletin- https://github.com/OWASP/vbscan
 Prestashop - https://github.com/zapalm/prestashop-security-vulnerability-checker
