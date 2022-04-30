@@ -31,5 +31,5 @@ CMS Made Simple -	https://github.com/stefan2200/Helios
 MODX Revolution -	https://github.com/stefan2200/Helios
 Mambo -	https://packetstormsecurity.com/files/64722/cms_few.py.txt.html
 PHP-Nuke -	https://packetstormsecurity.com/files/64722/cms_few.py.txt.html
-XOOPS	 -https://packetstormsecurity.com/files/64722/cms_few.py.txt.html
-Adobe Experience Manager V	https://github.com/Raz0r/aemscan
+XOOPS	 - https://packetstormsecurity.com/files/64722/cms_few.py.txt.html
+Adobe Experience Manager V - https://github.com/Raz0r/aemscan
