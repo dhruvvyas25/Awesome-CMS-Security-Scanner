@@ -11,12 +11,12 @@ List of CMS Security Scanners
 | TYPO3 | https://github.com/whoot/Typo3Scan |
 | | https://github.com/Webber89/TY3Scan |
 | Lokomedia | https://github.com/anouarbensaad/vulnx |
-Opencart - https://github.com/anouarbensaad/vulnx
-vBulletin- https://github.com/OWASP/vbscan
-Prestashop - https://github.com/zapalm/prestashop-security-vulnerability-checker
-Concrete5 - https://github.com/0x646e78/c5scan
-SilverStripe - https://github.com/SamJoan/droopescan
-Contao - https://github.com/1up-lab/ContaoSecurityCheckerBundle
+| Opencart | https://github.com/anouarbensaad/vulnx |
+| vBulletin | https://github.com/OWASP/vbscan |
+| Prestashop | https://github.com/zapalm/prestashop-security-vulnerability-checker |
+| Concrete5 - https://github.com/0x646e78/c5scan |
+| SilverStripe | https://github.com/SamJoan/droopescan |
+| Contao | https://github.com/1up-lab/ContaoSecurityCheckerBundle |
 CraftCMS -	https://github.com/putyourlightson/craft-sherlock
 DotNetNuke - https://github.com/DNNCommunity/DNN.SecurityAnalyzer
 Kentico -	https://github.com/Kentico/KInspector
