@@ -35,3 +35,5 @@ List of CMS Security Scanners
 | PHP-Nuke |	https://packetstormsecurity.com/files/64722/cms_few.py.txt.html |
 | XOOPS	 | https://packetstormsecurity.com/files/64722/cms_few.py.txt.html |
 | Adobe Experience Manager V | https://github.com/Raz0r/aemscan |
+| Discuz! | https://github.com/CHYbeta/cmsPoc |
+| iWeb | https://github.com/CHYbeta/cmsPoc |
