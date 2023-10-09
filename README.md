@@ -6,6 +6,7 @@ List of CMS Security Scanners
 | WordPress | https://github.com/wpscanteam/wpscan |
 | | https://github.com/dionach/CMSmap |
 | Joomla | https://github.com/dionach/CMSmap |
+| | https://github.com/OWASP/joomscan |
 | Drupal | https://github.com/dionach/CMSmap |
 | Moodle | https://github.com/dionach/CMSmap |
 | Magento | https://github.com/soufianetahiri/MagentoScanner |
